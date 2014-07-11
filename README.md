@@ -7,11 +7,11 @@ It was done in XCode Version 6.0 (6A215l) using Swift
 
 You can see the following joint types in action:
 
-SKPhysicsJointPin
-SKPhysicsJointFixed
-SKPhysicsJointSliding
-SKPhysicsJointSpring
-SKPhysicsJointLimit
+ - SKPhysicsJointPin
+ - SKPhysicsJointFixed
+ - SKPhysicsJointSliding
+ - SKPhysicsJointSpring
+ - SKPhysicsJointLimit
 
 They all seem to be functional in this Beta 
 
