@@ -139,7 +139,7 @@
                                         </connections>
                                     </switch>
                                 </subviews>
-                                <color key="backgroundColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
+                                <color key="backgroundColor" red="0.40000000600000002" green="0.8127566149635036" blue="0.79276916058394165" alpha="1" colorSpace="calibratedRGB"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="40" id="4OL-Kd-4TK"/>
                                     <constraint firstAttribute="width" constant="105" id="S58-Qa-Ozs"/>
@@ -405,6 +405,7 @@
                     </view>
                     <connections>
                         <outlet property="messageLabel" destination="dcb-y2-NQy" id="jr3-ig-Qb0"/>
+                        <outlet property="tableView" destination="OPN-SQ-aru" id="nov-Sp-ka0"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="SZV-WD-TEh" sceneMemberID="firstResponder"/>
